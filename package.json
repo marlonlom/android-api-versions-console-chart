@@ -5,12 +5,17 @@
   "main": "src/main/javascript/index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/main/javascript/index.js"
+    "test": "echo \"Error: no test specified\" "
   },
-  "keywords": [],
-  "author": "marlonlom",
-  "license": "ISC",
+  "keywords": [
+    "android",
+    "distribution chart",
+    "piecharts",
+    "colored chart",
+    "terminal utility"
+  ],
+  "author": "Marlon López (https://about.me/marlonlom)",
+  "license": "MIT",
   "dependencies": {
     "cli-pie": "^2.4.2",
     "node-fetch": "^3.3.0",
