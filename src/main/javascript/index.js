@@ -14,6 +14,6 @@ export function displayChart() {
       }
     )
     .catch(
-      (err) => console.log('No Chart at the moment. Sorry.', err)
+      (err) => console.log('No Chart at the moment. Sorry :(', err)
     );
 }
