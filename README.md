@@ -9,6 +9,15 @@ To use android-api-versions-console-chart **on the terminal with node.js**, inst
 ```bash
 npm install -g android-api-versions-console-chart
 ```
+After installed, run the following command:
+
+```bash
+display-android-api-versions-chart
+```
+
+The result is as follows:
+
+![Usage of display-android-api-versions-chart command](screenshots/console-chart-displayed-command.png "console chart displayed after installed")
 
 
 ## Used libraries / Dependencies:
