@@ -2,16 +2,18 @@ import { mapToSimpleAndroidDistributionInfo, retrieveDistributionUrlContents } f
 import { generatePieChart } from "./generate-piecharts.js";
 import { environment } from "./environment.js";
 
-retrieveDistributionUrlContents()
-  .then(
-    (response) => {
-      const apiLevels = mapToSimpleAndroidDistributionInfo(response);
-      const pieChart = generatePieChart(apiLevels);
-      console.log(environment.chartTitle);
-      console.log(pieChart.toString());
-      console.log('');
-    }
-  )
-  .catch(
-    (err) => console.log('No Chart at the moment. Sorry.', err)
-  );
+export function displayChart() {
+  retrieveDistributionUrlContents()
+    .then(
+      (response) => {
+        const apiLevels = mapToSimpleAndroidDistributionInfo(response);
+        const pieChart = generatePieChart(apiLevels);
+        console.log(environment.chartTitle);
+        console.log(pieChart.toString());
+        console.log('');
+      }
+    )
+    .catch(
+      (err) => console.log('No Chart at the moment. Sorry.', err)
+    );
+}
