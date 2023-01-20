@@ -1,8 +1,8 @@
 {
   "name": "android-api-versions-console-chart",
   "version": "1.0.0",
-  "description": "android api versions percentage usage chart for displaying in javascript/terminal using nodejs and cli-pie",
-  "main": "src/main/javascript/index.js",
+  "description": "Android api versions percentage usage chart for displaying in javascript/terminal using nodejs and cli-pie",
+  "main": "bin/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" "
@@ -20,5 +20,8 @@
     "cli-pie": "^2.4.2",
     "node-fetch": "^3.3.0",
     "randomcolor": "^0.6.2"
+  },
+  "bin": {
+    "display-android-api-versions-chart": "./bin/index.js"
   }
 }
