@@ -1,7 +1,7 @@
 # android-api-versions-console-chart
 Android api versions percentage usage chart for displaying in javascript/terminal using nodejs.
 
-![Android api versions percentage chart in action](screenshots/console-chart-displayed.png "console chart displayed")
+![Android api versions percentage chart in action](https://raw.githubusercontent.com/marlonlom/android-api-versions-console-chart/main/screenshots/console-chart-displayed.png "console chart displayed")
 
 ## Usage
 To use android-api-versions-console-chart **on the terminal with node.js**, install [android-api-versions-console-chart from npm](https://www.npmjs.org/package/android-api-versions-console-chart) using the following command in the terminal:
@@ -17,7 +17,7 @@ display-android-api-versions-chart
 
 The result is as follows:
 
-![Usage of display-android-api-versions-chart command](screenshots/console-chart-displayed-command.png "console chart displayed after installed")
+![Usage of display-android-api-versions-chart command](https://raw.githubusercontent.com/marlonlom/android-api-versions-console-chart/main/screenshots/console-chart-displayed-command.png "console chart displayed after installed")
 
 
 ## Used libraries / Dependencies:
