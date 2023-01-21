@@ -1,4 +1,11 @@
 # android-api-versions-console-chart
+<div align="center">
+![GitHub](https://img.shields.io/github/license/marlonlom/android-api-versions-console-chart)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/marlonlom/android-api-versions-console-chart)
+![GitHub repo size](https://img.shields.io/github/repo-size/marlonlom/android-api-versions-console-chart)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/keywords/marlonlom/android-api-versions-console-chart)
+[![npm version](https://img.shields.io/npm/v/axios.svg?style=flat-square)](https://www.npmjs.com/package/android-api-versions-console-chart)
+</div>
 Android api versions percentage usage chart for displaying in javascript/terminal using nodejs.
 
 ![Android api versions percentage chart in action](https://raw.githubusercontent.com/marlonlom/android-api-versions-console-chart/main/screenshots/console-chart-displayed.png "console chart displayed")
