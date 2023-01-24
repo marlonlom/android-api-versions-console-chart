@@ -14,6 +14,14 @@
     "colored chart",
     "terminal utility"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:marlonlom/android-api-versions-console-chart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marlonlom/android-api-versions-console-chart/issues"
+  },
+  "homepage": "https://github.com/marlonlom/android-api-versions-console-chart",
   "author": "Marlon López (https://about.me/marlonlom)",
   "license": "MIT",
   "dependencies": {
