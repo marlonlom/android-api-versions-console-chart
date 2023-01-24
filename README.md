@@ -17,6 +17,7 @@ Android api versions percentage usage chart for displaying in javascript/termina
 
 ![Android api versions percentage chart in action](https://raw.githubusercontent.com/marlonlom/android-api-versions-console-chart/main/screenshots/console-chart-displayed.png "console chart displayed")
 
+
 ## Usage
 To use android-api-versions-console-chart **on the terminal with node.js**, install [android-api-versions-console-chart from npm](https://www.npmjs.org/package/android-api-versions-console-chart) using the following command in the terminal:
 
@@ -34,6 +35,15 @@ The result is as follows:
 ![Usage of display-android-api-versions-chart command](https://raw.githubusercontent.com/marlonlom/android-api-versions-console-chart/main/screenshots/console-chart-displayed-command.png "console chart displayed after installed")
 
 
+## Contributing
+ 
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+ 
+
 ## Used libraries / Dependencies:
 
 | Dependency library                                                | About                                                   |
@@ -41,6 +51,12 @@ The result is as follows:
 | Random Color ([npmjs](https://www.npmjs.com/package/randomcolor)) | A tiny script for generating attractive random colors.  |
 | Node Fetch ([npmjs](https://www.npmjs.com/package/node-fetch))    | A light-weight module that brings Fetch API to Node.js. |
 | cli-pie ([npmjs](https://www.npmjs.com/package/cli-pie))          | Generate pie charts in terminal and text mode.          |
+
+
+## License
+
+[MIT](LICENSE.md) © [Marlonlom](https://about.me/marlonlom)
+
 
 ## Spread the word
 
