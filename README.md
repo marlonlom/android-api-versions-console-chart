@@ -2,12 +2,13 @@
 
 <div align="left">
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/marlonlom/android-api-versions-console-chart)
+![npm](https://img.shields.io/npm/v/android-api-versions-console-chart?color=red)
 ![GitHub](https://img.shields.io/github/license/marlonlom/android-api-versions-console-chart)
 ![GitHub repo size](https://img.shields.io/github/repo-size/marlonlom/android-api-versions-console-chart)
+![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/marlonlom/android-api-versions-console-chart?color=orange&label=version%20%28github%20repo%29)
 ![npm](https://img.shields.io/npm/dy/android-api-versions-console-chart)
 ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/android-api-versions-console-chart)
-![GitHub top language](https://img.shields.io/github/languages/top/marlonlom/android-api-versions-console-chart)
+![GitHub top language](https://img.shields.io/github/languages/top/marlonlom/android-api-versions-console-chart?color=yellow)
 <br>
 ![GitHub issues](https://img.shields.io/github/issues/marlonlom/android-api-versions-console-chart)
 ![GitHub package.json dynamic](https://img.shields.io/github/package-json/keywords/marlonlom/android-api-versions-console-chart)
