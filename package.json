@@ -1,6 +1,6 @@
 {
   "name": "android-api-versions-console-chart",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Android api versions percentage usage chart for displaying in javascript/terminal using nodejs and cli-pie",
   "main": "bin/index.js",
   "type": "module",
@@ -26,8 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "cli-pie": "^2.4.2",
-    "node-fetch": "^3.3.0",
-    "randomcolor": "^0.6.2"
+    "node-fetch": "^3.3.0"
   },
   "bin": {
     "display-android-api-versions-chart": "./bin/index.js"
