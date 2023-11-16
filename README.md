@@ -60,8 +60,7 @@ The result is as follows:
 
 If you like this library, please tell others about it :thumbsup::thumbsup:
 
-<a href="https://twitter.com/intent/tweet?text=Android%20api%20versions%20percentage%20usage%20chart%20being%20displayed%20in%20terminal%3F%3F%20Check%20out%20this%20awesome%20library%20on%20Github%3A%20https://www.npmjs.org/package/android-api-versions-console-chart" target="_blank" title="share to twitter" style="width:100%"><img src="https://github.com/marlonlom/staticmaps_builder/blob/master/design/twitter_icon.png" title="Share on Twitter" width="35" height=35 />
-<a href="https://www.facebook.com/sharer/sharer.php?u=www.npmjs.org/package/android-api-versions-console-chart" target="_blank" title="share to facebook" style="width:100%"><img src="https://github.com/marlonlom/staticmaps_builder/blob/master/design/facebook_icon.png" title="Share on Facebook" width="35" height=35 />
+<a href="https://twitter.com/intent/tweet?text=Android%20api%20versions%20percentage%20usage%20chart%20being%20displayed%20in%20terminal%3F%3F%20Check%20out%20this%20awesome%20library%20on%20Github%3A%20https://www.npmjs.org/package/android-api-versions-console-chart" target="_blank" title="share to twitter" style="width:100%"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png" title="Share on Twitter" width="35" height=35 />&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=www.npmjs.org/package/android-api-versions-console-chart" target="_blank" title="share to facebook" style="width:100%"><img src="https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Facebook.png" title="Share on Facebook" width="35" height=35 />
 
  - []()Follow me on **Twitter**: [**@Marlonlom**](https://twitter.com/marlonlom)
  - Contact me on **LinkedIn**: [**Marlonlom**](https://co.linkedin.com/in/marlonlom)
